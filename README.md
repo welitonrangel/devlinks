@@ -1,6 +1,6 @@
 # 🚀 Devlinks
 
-Um projeto criado para praticar conceitos de HTML, CSS com Flexbox e JavaScript para manipulação do DOM.
+Um projeto criado para praticar conceitos de HTML, CSS com Flexbox e JavaScript.
 
 ## ✨ Funcionalidades
 
@@ -29,4 +29,4 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
 ## 👨‍💻 Autor
 
-Feito com dedicação por **Weliton Rangel*.
+Feito com ❤️ por **Weliton Rangel**.
